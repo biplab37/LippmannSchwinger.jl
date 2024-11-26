@@ -2,3 +2,9 @@ name = "LippmannSchwinger"
 uuid = "38e00424-c37f-41c4-9b11-1c9085b7cc88"
 authors = ["biplab37 <biplabmahato37@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+UsefulFunctions = "3faa5a7b-8411-4986-9283-d50561d89da5"
+
+[compat]
+UsefulFunctions = "0.1.0"
